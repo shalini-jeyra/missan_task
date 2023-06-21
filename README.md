@@ -14,15 +14,15 @@ Make sure you have Flutter and Dart SDK installed on your machine. You can follo
 
 ### Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: https://github.com/shalini-jeyra/missan_task.git
 
-2. Navigate to the project directory:
+2. Navigate to the project directory: cd missan_task
 
-3. Install the dependencies:
+3. Install the dependencies: flutter pub get
 
 ### Running the App
 
-Connect your device or emulator and run the app using the following command:
+Connect your device or emulator and run the app using the following command: flutter run
 
 
 This command will build and run the app on the connected device or emulator. Make sure you have USB debugging enabled on your device or have a compatible emulator set up.
